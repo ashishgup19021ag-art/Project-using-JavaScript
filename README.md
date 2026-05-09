@@ -1,62 +1,34 @@
 # Project-using-JavaScript
 Passionate JavaScript developer building dynamic and responsive web applications. Focused on creating real-world projects using modern web technologies.
 
-1. 🌟 Quote Generator
+ JavaScript Projects
 
-Quote Generator Live
+1. Quote Generator  
+https://qoutegernerator.netlify.app  
 
-Displays random motivational quotes dynamically with button interaction.
+2. Background Color Changer  
+https://backgrouncolourchanger.netlify.app  
 
-2. 🎨 Background Color Changer
+3. Digital Clock  
+https://digitallclocck.netlify.app  
 
-Background Color Changer Live
+4. Income Tax Calculator  
+https://incomeetaxxcalculator.netlify.app  
 
-Changes webpage background color on user action (DOM manipulation).
+5. Countdown Timer  
+https://countdownntimeer.netlify.app  
 
-3. ⏰ Digital Clock
+6. Astrology Website  
+https://astrologykro.netlify.app  
 
-Digital Clock Live
+7. Click Anywhere Effect  
+https://clickeranywhere.netlify.app  
 
-Real-time clock using JavaScript Date object.
+8. To-Do List App  
+https://toodooliisst.netlify.app  
 
-4. 💰 Income Tax Calculator
+9. Exam Result Calculator  
+https://examressult.netlify.app  
 
-Income Tax Calculator Live
-
-Calculates tax based on user input with logic handling.
-
-5. ⏳ Countdown Timer
-
-Countdown Timer Live
-
-Counts down to a specific date/time dynamically.
-
-6. 🔮 Astrology Website
-
-Astrology Website Live
-
-Multi-page responsive website with structured UI.
-
-7. ✨ Click Anywhere Effect
-
-Click Anywhere Effect Live
-
-Creates animations on screen click using event listeners.
-
-8. 📝 To-Do List App
-
-To-Do List Live
-
-Task manager with add/delete + local storage.
-
-9. 📊 Exam Result Calculator
-
-Exam Result Calculator Live
-
-Calculates grades based on marks input.
-
-10. ❤️ Love Calculator
-
-Love Calculator Live
-
-Fun app generating “love percentage” using logic + randomness.
+10. Love Calculator  
+https://loveecalculator.netlify.app  
