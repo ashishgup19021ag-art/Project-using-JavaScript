@@ -1,0 +1,78 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e1e1e;
+    height: 100vh;
+    color: white;
+    
+}
+
+.first{
+    height: 700px;
+    width: 600px;
+    background-color: #2e2e2e;
+    border: 1px solid #434242;
+    border-radius: 20px;
+}
+#astro{
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+
+.Insights{
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+#day{
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+#month{
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+#year{
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+#result{
+    height: 300px;
+    width: 500px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    font-size: 20px;
+}
+
+#name{
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+#Surname{
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.name{
+    font-size: 20px;
+}

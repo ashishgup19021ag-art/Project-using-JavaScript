@@ -1,0 +1,46 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e1e1e;
+    height: 100vh;
+    color: white;
+    
+}
+
+.first{
+    height: 700px;
+    width: 600px;
+    background-color: #2e2e2e;
+    border: 1px solid #434242;
+    border-radius: 20px;
+}
+
+h1{
+    position: relative;
+    top: 15%;
+    left: 21%;
+}
+
+#time{
+    position: relative;
+    top: 1%;
+    left: 12%;
+    font-size: 30px;
+}
+
+.img{
+    height: 400px;
+    width: 550px;
+    border-radius: 20px;
+    position: relative;
+    left: 25px;
+    top: 20px;
+}

@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e1e1e;
+    height: 100vh;
+    color: white;
+    
+}
+
+#first{
+    height: 700px;
+    width: 600px;
+    background-color: #2e2e2e;
+    border: 1px solid #434242;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#submit{
+    margin-left: 90px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px;
+}
+

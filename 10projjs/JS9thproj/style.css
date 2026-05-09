@@ -1,0 +1,105 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e1e1e;
+    height: 100vh;
+    color: white;
+    
+}
+
+.first{
+    height: auto;
+    width: 600px;
+    background-color: #2e2e2e;
+    border: 1px solid #434242;
+    border-radius: 20px;
+}
+
+
+
+#input{
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+button{
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+
+
+
+#upload{
+    height: auto;
+    width: 550px;
+    font-size: 20px;
+    text-align: auto;
+    overflow: hidden;
+    
+     
+}
+
+.taskk{
+    height: 100vh;
+    width: auto;
+    margin-left : 20px;
+    text-align: justify;
+}
+
+.divv{
+    padding-top: 20px;
+}
+
+.first1{
+    height: 700px;
+    width: 600px;
+    background-color: #2e2e2e;
+    border: 1px solid #434242;
+    border-radius: 20px;
+}
+
+h1{
+    position: relative;
+    left: 40%;
+}
+
+#form1{
+    position: relative;
+    left: 25%;
+}
+
+@media screen and (max-width:414px){
+    .body{
+        width: 100%;
+    }
+    .first1{
+        position: relative;
+        width: 300px;
+        height: 600px;
+    }
+
+    .first{
+        position: relative;
+        width: 300px;
+        height: auto;
+    
+    }
+
+    #form1{
+        position: relative;
+        left: 20px;
+    }
+}

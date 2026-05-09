@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e1e1e;
+    height: 100vh;
+    color: white;
+    
+}
+
+.first{
+    height: 700px;
+    width: 700px;
+    background-color: #2e2e2e;
+    border: 1px solid #434242;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#time{
+    position: relative;
+    bottom: 70px;
+    right: 15%;
+    font-size: 50px;
+    width: 250px;
+}
+
+h1{
+    height: 100px;
+    width: 250px;
+    position: relative;
+    left: 15%;
+    top: 100px;
+}
+
+
+@media screen and (max-width:414px) {
+    h1{
+    position: relative;
+    left: 110px;
+    top:-230px;
+} 
+}
+
+
